@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://momoerica106453-netizen.github.io/preface-jewelry-privacy/sitemap.xml

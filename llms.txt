@@ -1,0 +1,18 @@
+# PREFACE Pin Studio
+
+> PREFACE Pin Studio is an internal Pinterest content planning, owner-approved publishing and analytics tool operated solely for the PREFACE Jewelry Pinterest business account.
+
+## Key facts
+
+- Operator: PREFACE Jewelry.
+- Purpose: prepare Pinterest content from PREFACE Jewelry product information and brand-owned images; publish owner-approved Pins; record publishing status; retrieve Pin and account analytics.
+- Human oversight: every Pin is reviewed and approved by the Pinterest account owner before publication.
+- Authorized data: account identifiers, boards, Pins, publishing status and Pinterest-provided analytics for the authorized PREFACE Jewelry account.
+- Third-party access: the application does not provide Pinterest account access or Pinterest data to third parties.
+- Data sale: Pinterest data is not sold or rented.
+- Public policy: https://momoerica106453-netizen.github.io/preface-jewelry-privacy/
+- Contact: https://www.instagram.com/preface_jewelry/
+
+## Canonical document
+
+- [Privacy Policy](https://momoerica106453-netizen.github.io/preface-jewelry-privacy/)
