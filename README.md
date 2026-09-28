@@ -4,9 +4,9 @@ Static privacy-policy website for the PREFACE Pin Studio Pinterest API applicati
 
 ## GitHub Pages deployment
 
-Recommended repository name: `preface-jewelry-privacy`
+Recommended repository name: `preface_jewelry`
 
-1. Create a new **public** GitHub repository named `preface-jewelry-privacy`.
+1. Create a new **public** GitHub repository named `preface_jewelry`.
 2. Upload all files in this folder to the repository root.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment**, select **Deploy from a branch**.
@@ -15,13 +15,13 @@ Recommended repository name: `preface-jewelry-privacy`
 
 For the GitHub user `momoerica106453-netizen`, the expected URL would normally be:
 
-`https://momoerica106453-netizen.github.io/preface-jewelry-privacy/`
+`https://momoerica106453-netizen.github.io/preface_jewelry/`
 
 Verify that the page loads publicly before submitting the URL to Pinterest.
 
 If you use another GitHub username or repository name, globally replace:
 
-`https://momoerica106453-netizen.github.io/preface-jewelry-privacy/`
+`https://momoerica106453-netizen.github.io/preface_jewelry/`
 
 The URL appears in `index.html`, `robots.txt`, `sitemap.xml` and `llms.txt`.
 

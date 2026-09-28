@@ -10,9 +10,9 @@
 - Authorized data: account identifiers, boards, Pins, publishing status and Pinterest-provided analytics for the authorized PREFACE Jewelry account.
 - Third-party access: the application does not provide Pinterest account access or Pinterest data to third parties.
 - Data sale: Pinterest data is not sold or rented.
-- Public policy: https://momoerica106453-netizen.github.io/preface-jewelry-privacy/
+- Public policy: https://momoerica106453-netizen.github.io/preface_jewelry/
 - Contact: https://www.instagram.com/preface_jewelry/
 
 ## Canonical document
 
-- [Privacy Policy](https://momoerica106453-netizen.github.io/preface-jewelry-privacy/)
+- [Privacy Policy](https://momoerica106453-netizen.github.io/preface_jewelry/)
